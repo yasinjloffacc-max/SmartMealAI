@@ -11,3 +11,10 @@ node_modules/
 .expo/
 Thumbs.db
 .DS_Store
+
+**/__pycache__/
+**/*.pyc
+mlruns/
+mlflow.db
+backend/mlruns/
+backend/mlflow.db
